@@ -25,15 +25,6 @@ Sou estudante de Ciência da Computação na UNISUL e estou construindo minha ba
 
 ---
 
-## 📂 Projetos em destaque
-
-| Projeto | Descrição | Tecnologias |
-|---|---|---|
-| [**SistemaEmprestimoFerramentas**](https://github.com/carloshlohn/SistemaEmprestimoFerramentas) | Sistema para controle de empréstimo de ferramentas. | Java |
-| [**Sistema de Estoque (Backend)**](https://github.com/LucasdaCosta04/Sistema_de_estoque-Backend) | Sistema distribuído de estoque, desenvolvido em equipe para atividade avaliativa. | Java |
-
----
-
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
